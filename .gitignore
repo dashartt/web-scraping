@@ -4,6 +4,7 @@
 ### Python ###
 # Flag images
 exercises/flags/
+exercises/quotes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
